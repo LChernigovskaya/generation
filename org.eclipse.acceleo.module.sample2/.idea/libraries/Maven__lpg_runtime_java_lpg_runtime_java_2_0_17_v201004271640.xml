@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: lpg.runtime.java:lpg.runtime.java:2.0.17.v201004271640">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/lpg/runtime/java/lpg.runtime.java/2.0.17.v201004271640/lpg.runtime.java-2.0.17.v201004271640.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/lpg/runtime/java/lpg.runtime.java/2.0.17.v201004271640/lpg.runtime.java-2.0.17.v201004271640-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/lpg/runtime/java/lpg.runtime.java/2.0.17.v201004271640/lpg.runtime.java-2.0.17.v201004271640-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

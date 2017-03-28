@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.ocl:org.eclipse.ocl.common:1.1.0.v20130531-0544">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/ocl/org.eclipse.ocl.common/1.1.0.v20130531-0544/org.eclipse.ocl.common-1.1.0.v20130531-0544.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/ocl/org.eclipse.ocl.common/1.1.0.v20130531-0544/org.eclipse.ocl.common-1.1.0.v20130531-0544-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/ocl/org.eclipse.ocl.common/1.1.0.v20130531-0544/org.eclipse.ocl.common-1.1.0.v20130531-0544-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

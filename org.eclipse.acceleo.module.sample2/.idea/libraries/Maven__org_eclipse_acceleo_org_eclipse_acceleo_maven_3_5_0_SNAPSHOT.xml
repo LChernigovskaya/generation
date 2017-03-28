@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.acceleo:org.eclipse.acceleo.maven:3.5.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/acceleo/org.eclipse.acceleo.maven/3.5.0-SNAPSHOT/org.eclipse.acceleo.maven-3.5.0-20150218.072517-68.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/acceleo/org.eclipse.acceleo.maven/3.5.0-SNAPSHOT/org.eclipse.acceleo.maven-3.5.0-20150218.072517-68-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/acceleo/org.eclipse.acceleo.maven/3.5.0-SNAPSHOT/org.eclipse.acceleo.maven-3.5.0-20150218.072517-68-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
